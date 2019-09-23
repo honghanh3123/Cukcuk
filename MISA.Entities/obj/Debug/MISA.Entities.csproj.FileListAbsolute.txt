@@ -1,0 +1,15 @@
+D:\Note\MISA\MISA.Entities\bin\Debug\MISA.Entities.dll.config
+D:\Note\MISA\MISA.Entities\bin\Debug\MISA.Entities.dll
+D:\Note\MISA\MISA.Entities\bin\Debug\MISA.Entities.pdb
+D:\Note\MISA\MISA.Entities\bin\Debug\EntityFramework.dll
+D:\Note\MISA\MISA.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Note\MISA\MISA.Entities\bin\Debug\EntityFramework.xml
+D:\Note\MISA\MISA.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.Entities.csproj.CoreCompileInputs.cache
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.Entities.csproj.CopyComplete
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.Entities.dll
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.Entities.pdb
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.Entities.csproj.GenerateResource.cache
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.Entities.Properties.Resources.resources
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.Entities.csprojAssemblyReference.cache
+D:\Note\MISA\MISA.Entities\obj\Debug\MISA.WDT03.NTHHanh.Migrations.Initial.resources

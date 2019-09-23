@@ -1,0 +1,15 @@
+D:\Note\MISA\MISA.DL\bin\Debug\MISA.DL.dll.config
+D:\Note\MISA\MISA.DL\bin\Debug\MISA.DL.dll
+D:\Note\MISA\MISA.DL\bin\Debug\MISA.DL.pdb
+D:\Note\MISA\MISA.DL\bin\Debug\EntityFramework.dll
+D:\Note\MISA\MISA.DL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Note\MISA\MISA.DL\bin\Debug\MISA.Entities.dll
+D:\Note\MISA\MISA.DL\bin\Debug\MISA.Entities.pdb
+D:\Note\MISA\MISA.DL\bin\Debug\MISA.Entities.dll.config
+D:\Note\MISA\MISA.DL\bin\Debug\EntityFramework.xml
+D:\Note\MISA\MISA.DL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Note\MISA\MISA.DL\obj\Debug\MISA.DL.csprojAssemblyReference.cache
+D:\Note\MISA\MISA.DL\obj\Debug\MISA.DL.csproj.CoreCompileInputs.cache
+D:\Note\MISA\MISA.DL\obj\Debug\MISA.DL.csproj.CopyComplete
+D:\Note\MISA\MISA.DL\obj\Debug\MISA.DL.dll
+D:\Note\MISA\MISA.DL\obj\Debug\MISA.DL.pdb
